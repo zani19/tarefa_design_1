@@ -14,3 +14,12 @@ div {
     width: 50%;
     display: block;
 } 
+
+li {
+    list-style: none;
+    display: inline-block;
+}
+
+.highlight {
+    fill: whitesmoke;
+}
