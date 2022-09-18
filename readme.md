@@ -13,7 +13,7 @@
         git -a(versão da tag) -m"(comentário)"
 - Desenvolver uma página utilizando HTML e CSS
 
-> [Clique para visualizar](zani19.github.io/tarefa_design_1)
+[Clique para visualizar](zani19.github.io/tarefa_design_1)
 
 > Tecnologias Utilizadas
 - HTML
