@@ -13,9 +13,12 @@
         git -a(versão da tag) -m"(comentário)"<br>
 - Desenvolver uma página utilizando HTML e CSS
 
+<<<<<<< HEAD
 > Clique para visualizar<br>
 [Tarefa Design 1](zani19.github.io/tarefa_design_1/)
 
+=======
+>>>>>>> f06356dde346472aa83e06e94269202826194805
 > Tecnologias Utilizadas
 - HTML
 - CSS
