@@ -1,0 +1,16 @@
+/* body {
+    background-color: black;
+} */
+
+body * {
+    font-family: sans-serif;
+    line-height: 160%;
+}
+
+div {
+    background-color: black;
+    color: white;
+    text-align: center;
+    width: 50%;
+    display: block;
+} 
