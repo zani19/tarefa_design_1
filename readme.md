@@ -14,7 +14,7 @@
 - Desenvolver uma página utilizando HTML e CSS
 
 > Clique para visualizar<br>
-[Tarefa Design 1](zani19.github.io/tarefa_design_1/)
+[Tarefa Design 1](https://zani19.github.io/tarefa_design_1/)
 
 > Tecnologias Utilizadas
 - HTML
